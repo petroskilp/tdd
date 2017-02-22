@@ -10,7 +10,6 @@ import java.util.Map;
  * Este exemplo foi retirado do livro "TDD - Test Driven Development. Teste e Design no Mundo Real"
  * do autor Mauricio Aniche pela editora Casa do Codigo (http://casadocodigo.com.br)
  * 
- * @author Elias Nogueira <http://about.me/eliasnogueira>
  *
  */
 public class ConversorDeRomanosAula {
